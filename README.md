@@ -11,3 +11,6 @@ Zora-DS (Disk System) was the first of the Zora product line and its code has be
 And again, everything here is ***free*** (*free* as in freedom and of price I'm not charging for this qwq)
 
 Again, glad I could make things clear, goodbye now!
+
+---
+<sub> This version of DS has been deprecated, obviously you're still free to use it, but be aware that it has been replace and is no longer supported (10/22/2024)</sub>
